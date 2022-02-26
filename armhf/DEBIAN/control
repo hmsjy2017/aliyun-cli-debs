@@ -1,0 +1,8 @@
+Package: aliyun-cli
+Version: 3.0.109
+Architecture: armhf
+Maintainer: Junyi Shi <hmsjy2019@gmail.com>
+Section: utils
+Priority: optional
+Homepage: https://github.com/aliyun/aliyun-cli
+Description: The Alibaba Cloud CLI is a tool to manage and use Alibaba Cloud resources through a command line interface. It is written in Go and built on the top of Alibaba Cloud OpenAPI.
